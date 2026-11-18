@@ -1,0 +1,12 @@
+{
+  "test": "Native DeepLabV3+ synthetic forward/backward/optimizer step",
+  "device": "cuda",
+  "output_shape": [
+    2,
+    4,
+    64,
+    64
+  ],
+  "loss": 1.4000561237335205,
+  "real_ai4mars_training": false
+}

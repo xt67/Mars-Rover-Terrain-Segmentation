@@ -1,0 +1,6 @@
+{
+  "project": "Mars-Rover-Terrain-Segmentation",
+  "event_loop_mocked": true,
+  "browser_render_verified": false,
+  "standalone_app_passed": true
+}

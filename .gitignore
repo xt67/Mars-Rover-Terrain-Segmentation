@@ -1,0 +1,12 @@
+.venv/
+.runtime/
+__pycache__/
+*.pyc
+data/
+runs/
+outputs/
+*.pt
+*.onnx
+*.mp4
+*.zip
+.pytest_cache/

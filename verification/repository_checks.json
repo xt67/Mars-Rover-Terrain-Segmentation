@@ -1,0 +1,7 @@
+{
+  "project": "xt67/Mars-Rover-Terrain-Segmentation",
+  "unit_tests_passed": 8,
+  "standalone_app_test_passed": true,
+  "browser_render_verified": false,
+  "ui_event_loop_mocked": true
+}

@@ -1,0 +1,10 @@
+# Python 3.10-3.12; install in a fresh virtual environment.
+numpy>=1.26.4,<2
+Pillow>=10.4,<12
+opencv-python-headless>=4.10,<4.12
+streamlit>=1.50,<2
+torch>=2.2,<3
+torchvision>=0.17,<1
+datasets>=3,<5
+segmentation-models-pytorch>=0.3.4,<0.6
+gradio>=5,<6
